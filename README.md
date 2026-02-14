@@ -77,7 +77,8 @@ pip install pandas matplotlib numpy tensorflow keras seaborn scikit-learn
 ---
 ## ✍️ Author
 **Name: Saurabh**    
-**Email: sauravsingh6462@gmail.com**
+**Email: sauravsingh6462@gmail.com**  
+**Linkedin: https://www.linkedin.com/in/saurabh1826/**
 
 ## 📜 License
 This project is for **educational purposes only**. Feel free to modify and enhance it! 🚀
